@@ -46,3 +46,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+Logic Gate
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/3a124c28-9d59-4b7e-a590-583f7412206d" />
+Clock Pulse
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/83870d0c-b3f1-4c33-a8c7-9283e646d72f" />
